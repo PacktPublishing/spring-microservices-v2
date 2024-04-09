@@ -1,0 +1,3 @@
+Referred in the course:
+1) APPENDIX - Introduction to Functional Programming in 30 Minutes
+2) Getting Started with JPA and Hibernate
