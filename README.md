@@ -2,7 +2,7 @@
 
 
 # Master Microservices with Spring Boot and Spring Cloud
-This is the code repository for [Master Microservices with Spring Boot and Spring Cloud [Video]]([https://www.packtpub.com/en-us/product/master-microservices-with-spring-boot-and-spring-cloud-9781789132779), published by [Packt](https://www.packtpub.com/en-us). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for [Master Microservices with Spring Boot and Spring Cloud]([https://www.packtpub.com/en-us/product/master-microservices-with-spring-boot-and-spring-cloud-9781789132779)], published by [Packt](https://www.packtpub.com/en-us). It contains all the supporting project files necessary to work through the video course from start to finish.
 
 Learn how to create awesome Microservices and RESTful web services with Spring and Spring Boot.
 
