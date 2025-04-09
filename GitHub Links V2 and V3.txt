@@ -1,0 +1,8 @@
+GitHub Links
+
+V2 - https://github.com/in28minutes/spring-microservices-v2/tree/main
+
+V3 - https://github.com/in28minutes/spring-microservices-v3/tree/main
+
+Backup link in case the above links don't work:
+https://github.com/in28minutes/course-material/blob/main/01-spring-microservices/v2/downloads.md
